@@ -8,3 +8,5 @@ Team members:
 6. merge 3
 7. merge 4
 8. merge 5
+9. merge 6
+10. merge 7
