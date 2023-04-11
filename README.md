@@ -4,4 +4,3 @@ Team members:
 2. Beta Ong
 3. Gamma Lim
 4. member2
-5. member1
